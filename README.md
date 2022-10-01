@@ -1,7 +1,7 @@
 # jdbcTemplate
 ### CRUD application to practice `jdbcTemplate`
 
-There are two `PostgreSQL` tables: 
+There are two `PostgreSQL` tables:  
 * Person
 * Book  
 It is possible to do all CRUD operations with each of the tables  
