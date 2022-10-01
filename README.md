@@ -3,7 +3,8 @@
 
 There are two `PostgreSQL` tables:  
 * Person
-* Book  
+* Book
+<br/>
 It is possible to do all CRUD operations with each of the tables  
 You can assign several books to one person  
 Tables use a `one-to-many` relationship
